@@ -7,9 +7,9 @@
   },
   {
     "remote"     : "github",
-    "repository" : "HarukeyUA/android_kernel_xiaomi_santoni",
+    "repository" : "PotatoDevices/kernel_xiaomi_santoni",
     "target_path": "kernel/xiaomi/msm8937",
-    "branch"     : "DarkPhoenix-60fps"
+    "branch"     : "baked-release"
   },
   {
     "remote"     : "github",
